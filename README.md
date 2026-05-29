@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=160&section=header&text=jnpatel1&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=builder%20%7C%20quant%20%7C%20uw%20math&descAlignY=78&descSize=16&descColor=888888" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000080&height=160&section=header&text=jaineel%20patel&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=builder%20@%20uw%20math&descAlignY=78&descSize=16&descColor=888888&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -9,19 +9,6 @@
 </p>
 
 ---
-
-```
-  currently
-  ├── PropertySearchGPT  programmatic SEO and Automation@ co-op   1.1M+ pages, GEO, full-stack infrastructure
-  ├── signal-stack       AI options trading system                live capital, IBKR, Black-Scholes
-  └── brain-os           obsidian second brain                    agentic read/write via MCP
-
-  shipped
-  ├── CityLens     1st @ Hack Canada       geospatial ML — 17k parcels scored
-  ├── AIDE         1st @ FCI × BRAVE       healthcare triage — $1k VC award
-  ├── ClientPulse  MCP server              7 tools, built in <24 hrs
-  └── PrepLab      HackWestern             AI interview coach + real-time physio monitoring
-```
 
 <br/>
 
