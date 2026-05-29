@@ -12,9 +12,9 @@
 
 ```
   currently
-  ├── signal-stack     AI options trading system    live capital, IBKR, Black-Scholes
-  ├── seo-engine       programmatic SEO @ co-op     500+ pages, schema.org, GEO
-  └── brain-os         obsidian second brain        agentic read/write via MCP
+  ├── PropertySearchGPT  programmatic SEO and Automation@ co-op   1.1M+ pages, GEO, full-stack infrastructure
+  ├── signal-stack       AI options trading system                live capital, IBKR, Black-Scholes
+  └── brain-os           obsidian second brain                    agentic read/write via MCP
 
   shipped
   ├── CityLens     1st @ Hack Canada       geospatial ML — 17k parcels scored
