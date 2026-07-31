@@ -17,6 +17,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-0f0f0f?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-0f0f0f?style=flat-square&logo=fastapi&logoColor=white"/>
