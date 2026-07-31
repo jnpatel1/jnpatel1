@@ -13,26 +13,68 @@
 <br/>
 
 ## stack
-
+<!-- Languages -->
 <p>
   <img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-0f0f0f?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0f0f0f?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-0f0f0f?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-0f0f0f?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCaml-0f0f0f?style=flat-square&logo=ocaml&logoColor=white"/>
+</p>
+
+<!-- Web & Frameworks -->
+<p>
   <img src="https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-0f0f0f?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-0f0f0f?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0f0f0f?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0f0f0f?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0f0f0f?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-0f0f0f?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-0f0f0f?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0f0f0f?style=flat-square&logo=railway&logoColor=white"/>
+</p>
+
+<!-- Data & ML -->
+<p>
   <img src="https://img.shields.io/badge/pandas-0f0f0f?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-0f0f0f?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-0f0f0f?style=flat-square&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic_SDK-0f0f0f?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-0f0f0f?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0f0f0f?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-0f0f0f?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0f0f0f?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-0f0f0f?style=flat-square&logo=polars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-0f0f0f?style=flat-square&logo=duckdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-0f0f0f?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0f0f?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-0f0f0f?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-0f0f0f?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
+
+<!-- Infra & Cloud -->
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-0f0f0f?style=flat-square&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0f0f0f?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-0f0f0f?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-0f0f0f?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caddy-0f0f0f?style=flat-square&logo=caddy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailscale-0f0f0f?style=flat-square&logo=tailscale&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-0f0f0f?style=flat-square&logo=cloudflare&logoColor=white"/>
+  
+</p>
+
+<!-- AI, APIs & Analytics -->
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-0f0f0f?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-0f0f0f?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-0f0f0f?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0f0f0f?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-0f0f0f?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-0f0f0f?style=flat-square&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBKR_API-0f0f0f?style=flat-square&logo=interactivebrokers&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mapbox-0f0f0f?style=flat-square&logo=mapbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-0f0f0f?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
 <br/>
@@ -50,10 +92,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://jpat.vercel.app">
+  <!-- <a href="https://jpat.vercel.app">
     <img src="https://img.shields.io/badge/portfolio-jpat.vercel.app-ffffff?style=flat-square&labelColor=0f0f0f"/>
   </a>
-  &nbsp;
+  &nbsp; -->
   <a href="https://linkedin.com/in/pateljn">
     <img src="https://img.shields.io/badge/linkedin-pateljn-ffffff?style=flat-square&logo=linkedin&labelColor=0f0f0f"/>
   </a>
