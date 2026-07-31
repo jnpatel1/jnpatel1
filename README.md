@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-0f0f0f?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-0f0f0f?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-0f0f0f?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-0f0f0f?style=flat-square&logo=cshrp&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-0f0f0f?style=flat-square&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/OCaml-0f0f0f?style=flat-square&logo=ocaml&logoColor=white"/>
 </p>
