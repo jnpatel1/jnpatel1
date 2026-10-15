@@ -20,7 +20,7 @@
 
 - **[propertysearchgpt](https://propertysearchgpt.ai)**: ssr search over 61K active + 1.2M historical mls listings. 0 → 201K search impressions and 116K indexed pages in 6 weeks, pagespeed 35 → 88
 - **[local-inference](https://github.com/jnpatel1/local-inference)**: openai-compatible router fanning batch jobs across cpu-only nodes. +49% phone throughput from big.LITTLE core pinning
-- **aide**: 1st place @ FCI x BRAVE ($4,000). voice + web patient triage with an automated hotline
+- **aide**: 1st place @ FCI x BRAVE. voice + web patient triage with an automated hotline
 - **[citylens](https://github.com/dhruv-j11/citylens)**: hack canada 2026. scored 17,717 waterloo parcels on development readiness, natural-language city-building on a 3d map
 
 ## stack
